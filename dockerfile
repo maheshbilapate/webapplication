@@ -1,2 +1,2 @@
-FROM maheshbilapate/webapplication
+FROM maheshbilapate/webapp
 ADD . /var/www/html
